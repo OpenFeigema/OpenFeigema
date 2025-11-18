@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+
+
+I'm fanatic about
+
+* Deep Learning / Machine Learning
+* Computer Vision / Image Processing
+* Data Mining
+
+I have these skills.
+
+* C# (.NET)
+* Python
+* C/C++
+* PHP
+* JavaScript
+* BAT
+* Development of Desktop Application
+* Development of Server Side Application
+
+* 
 <!--
 **OpenFeigema/OpenFeigema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
